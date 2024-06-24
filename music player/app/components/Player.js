@@ -10,7 +10,7 @@ export default function Player({ song }) {
                         <figcaption>{song.name}</figcaption>
 
                         <audio src={song.src} className="w-full my-3" autoPlay controls></audio>
-                        <a href={song.src} className="underline" download={'true'}> Download </a>
+                        <a href={song.src} className="underline" download> Download </a>
                     </figure>
                 </div>
             </div>

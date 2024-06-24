@@ -1,72 +1,72 @@
 [
     {
-        "name": "Demo music name 1",
-        "singer": "John Doe",
+        "name": "Rockabye baby - annie marie",
+        "singer": "Annie Marie",
         "image": "/image1.png",
-        "src": "/music3.mp3",
-        "duration": "3:45"
-    },
-    {
-        "name": "Demo music name 2",
-        "singer": "Jane Smith",
-        "image": "/image2.png",
         "src": "/music1.mp3",
         "duration": "4:10"
     },
     {
-        "name": "Demo music name 3",
-        "singer": "Bob Brown",
-        "image": "/image3.png",
-        "src": "/music2.mp3",
-        "duration": "2:30"
-    },
-    {
-        "name": "Demo music name 4",
-        "singer": "Alice Johnson",
-        "image": "/image4.png",
-        "src": "/music3.mp3",
-        "duration": "3:20"
-    },
-    {
-        "name": "Demo music name 5",
-        "singer": "Charlie Davis",
+        "name": "Heat waves",
+        "singer": "Jane Smith",
         "image": "/image2.png",
-        "src": "/music1.mp3",
-        "duration": "4:00"
-    },
-    {
-        "name": "Demo music name 6",
-        "singer": "Emily Wilson",
-        "image": "/image6.png",
         "src": "/music2.mp3",
-        "duration": "3:35"
-    },
-    {
-        "name": "Demo music name 7",
-        "singer": "Frank Clark",
-        "image": "/image7.png",
-        "src": "/music3.mp3",
-        "duration": "2:50"
-    },
-    {
-        "name": "Demo music name 8",
-        "singer": "Grace Lee",
-        "image": "/image8.png",
-        "src": "/music1.mp3",
         "duration": "3:55"
     },
     {
-        "name": "Demo music name 9",
-        "singer": "Henry Kim",
-        "image": "/image9.png",
-        "src": "/music2.mp3",
-        "duration": "4:15"
+        "name": "FRIENDS",
+        "singer": "Annie Marie",
+        "image": "/image3.png",
+        "src": "/music3.mp3",
+        "duration": "3:51"
     },
     {
-        "name": "Demo music name 10",
+        "name": "old town road",
+        "singer": "Alice Johnson",
+        "image": "/image4.png",
+        "src": "/music4.mp3",
+        "duration": "2:37"
+    },
+    {
+        "name": "Sunflower",
+        "singer": "Charlie Davis",
+        "image": "/image2.png",
+        "src": "/music5.mp3",
+        "duration": "2:41"
+    },
+    {
+        "name": "Rockabye baby - annie marie",
+        "singer": "Annie Marie",
+        "image": "/image6.png",
+        "src": "/music1.mp3",
+        "duration": "4:10"
+    },
+    {
+        "name": "Heat waves",
+        "singer": "Frank Clark",
+        "image": "/image7.png",
+        "src": "/music2.mp3",
+        "duration": "3:55"
+    },
+    {
+        "name": "FRIENDS",
+        "singer": "Annie Marie",
+        "image": "/image8.png",
+        "src": "/music3.mp3",
+        "duration": "3:51"
+    },
+    {
+        "name": "old town road",
+        "singer": "Henry Kim",
+        "image": "/image9.png",
+        "src": "/music4.mp3",
+        "duration": "2:37"
+    },
+    {
+        "name": "Sunflower",
         "singer": "Ivy Martinez",
         "image": "/image10.png",
-        "src": "/music3.mp3",
-        "duration": "3:10"
+        "src": "/music5.mp3",
+        "duration": "2:41"
     }
 ]

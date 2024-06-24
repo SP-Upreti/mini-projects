@@ -44,5 +44,5 @@ audio::-webkit-media-controls-panel * {
 }
 
 .rotate {
-  animation: rotate 8s infinite linear;
+  animation: rotate 15s infinite linear;
 }

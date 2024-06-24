@@ -9,7 +9,7 @@ export default function PlayList({ onSongSelect, data }) {
                         (song, key) => {
                             return (
                                 <div className="" key={key} onClick={() => { onSongSelect(song) }}>
-                                    <div className="flex items-center gap-16  border border-slate-800 p-3 px-5 rounded-lg w-[22rem] cursor-pointer hover:shadow-xl card">
+                                    <div className="flex items-center justify-between  border border-slate-800 p-3 px-5 rounded-lg w-[22rem] cursor-pointer hover:shadow-xl card">
                                         <div className="">
                                             <h2 className="leading-4">{song.name}</h2>
                                             <p className="font-semibold">{song.singer}</p>
